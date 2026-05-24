@@ -27,15 +27,29 @@ Typical applications:
 
 #### Project & design management
 
-<img src="images/img1.png" alt="Projects dashboard" width="920" />
+<p align="center">
+  <img
+    src="images/img1.png"
+    alt="Projects dashboard"
+    width="860"
+    style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e4e7ed;"
+  />
+</p>
 
-Create projects, manage multiple design revisions, and open the designer.
+<p align="center"><sub>Create projects, manage multiple design revisions, and open the designer.</sub></p>
 
 #### Interactive P&ID designer with flow demo
 
-<img src="images/img.png" alt="Designer canvas" width="920" />
+<p align="center">
+  <img
+    src="images/img.png"
+    alt="Designer canvas"
+    width="520"
+    style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e4e7ed;"
+  />
+</p>
 
-Drag-and-drop component library, pipe connections, **flow animation**, runtime controls (e.g. 3-way valve path, flow regulator opening), collapsible side panels, bilingual UI.
+<p align="center"><sub>Drag-and-drop component library, pipe connections, <strong>flow animation</strong>, runtime controls (3-way valve, flow regulator), collapsible panels, bilingual UI.</sub></p>
 
 ### Key capabilities
 
@@ -176,15 +190,29 @@ MIT
 
 #### 项目与方案管理
 
-<img src="images/img1.png" alt="项目管理" width="920" />
+<p align="center">
+  <img
+    src="images/img1.png"
+    alt="项目管理"
+    width="860"
+    style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e4e7ed;"
+  />
+</p>
 
-新建项目、管理多套方案、进入设计器。
+<p align="center"><sub>新建项目、管理多套方案、进入设计器。</sub></p>
 
 #### P&ID 设计器与流动演示
 
-<img src="images/img.png" alt="设计器画布" width="920" />
+<p align="center">
+  <img
+    src="images/img.png"
+    alt="设计器画布"
+    width="520"
+    style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e4e7ed;"
+  />
+</p>
 
-组件库拖放、管线连接、**流动演示**、三通阀流向指针、流速调节、侧栏折叠、中英文界面。
+<p align="center"><sub>组件库拖放、管线连接、<strong>流动演示</strong>、三通阀流向指针、流速调节、侧栏折叠、中英文界面。</sub></p>
 
 ### 核心功能
 

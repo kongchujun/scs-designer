@@ -25,12 +25,17 @@ Typical applications:
 
 ### Screenshots
 
-| Project & design management | Interactive P&ID designer with flow demo |
-|:---:|:---:|
-| ![Projects dashboard](images/img1.png) | ![Designer canvas](images/img.png) |
+#### Project & design management
 
-**Left:** create projects, manage multiple design revisions, open the designer.  
-**Right:** drag-and-drop component library, pipe connections, **flow animation**, runtime controls (e.g. 3-way valve path, flow regulator opening), collapsible side panels, bilingual UI.
+<img src="images/img1.png" alt="Projects dashboard" width="920" />
+
+Create projects, manage multiple design revisions, and open the designer.
+
+#### Interactive P&ID designer with flow demo
+
+<img src="images/img.png" alt="Designer canvas" width="920" />
+
+Drag-and-drop component library, pipe connections, **flow animation**, runtime controls (e.g. 3-way valve path, flow regulator opening), collapsible side panels, bilingual UI.
 
 ### Key capabilities
 
@@ -169,12 +174,17 @@ MIT
 
 ### 界面截图
 
-| 项目与方案管理 | P&ID 设计器与流动演示 |
-|:---:|:---:|
-| ![项目管理](images/img1.png) | ![设计器画布](images/img.png) |
+#### 项目与方案管理
 
-**左图：** 新建项目、管理多套方案、进入设计器。  
-**右图：** 组件库拖放、管线连接、**流动演示**、三通阀流向指针、流速调节、侧栏折叠、中英文界面。
+<img src="images/img1.png" alt="项目管理" width="920" />
+
+新建项目、管理多套方案、进入设计器。
+
+#### P&ID 设计器与流动演示
+
+<img src="images/img.png" alt="设计器画布" width="920" />
+
+组件库拖放、管线连接、**流动演示**、三通阀流向指针、流速调节、侧栏折叠、中英文界面。
 
 ### 核心功能
 
